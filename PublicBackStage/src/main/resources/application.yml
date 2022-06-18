@@ -1,0 +1,5 @@
+server:
+  port: 5088
+  compression:
+    enabled: true
+
